@@ -1,9 +1,6 @@
-layout_spectrum: 0.7293907
-typography_spectrum: 0.5591398
 color:
   saturation: 0.7634408
   brandStrength: 0
-  lightness: 0.1577061
   rhythmicContrast: 0.7795699
   brandColors:
     - '#E0FBFC'
@@ -11,4 +8,19 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  lightness: 0.1577061
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7293907
+typography_spectrum: 0.5591398
 name: Typographic.ly
