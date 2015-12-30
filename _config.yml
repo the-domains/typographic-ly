@@ -1,0 +1,14 @@
+layout_spectrum: 0.7293907
+typography_spectrum: 0.5591398
+color:
+  saturation: 0.7634408
+  brandStrength: 0
+  lightness: 0.1577061
+  rhythmicContrast: 0.7795699
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Typographic.ly
