@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'This is my first official post on the Grid. '
-datePublished: '2016-01-24T01:35:39.603Z'
-dateModified: '2016-01-24T01:28:57.430Z'
+datePublished: '2016-01-24T01:44:06.127Z'
+dateModified: '2016-01-24T01:44:01.384Z'
 title: 'Hi, Grid. Nice to meet you.'
 author: []
 authors: []
